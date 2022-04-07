@@ -16,12 +16,12 @@
 
   /***********************************/
   // Customise the app by changing the following variables.
-  const TITLE = "Shapes";
-  const DESCRTIPTION = "A collection of shapes on the blockchain";
-  const HEADER_TITLE = "shapes.xyz";
-  const HEADER_LINK = "https://solarare.com";
+  const TITLE = "dOGes Unnleashed";
+  const DESCRTIPTION = "The OG doges on Solana have been unleased and derugged, forked by Tendies and Nito, a community run project looking to bring good energy and vibes to the Solana ecosystem";
+  const HEADER_TITLE = "dOGes Unleashed";
+  const HEADER_LINK = "";
   // Your image or GIF needs to be in the /public folder for this to work
-  const IMAGE_LINK = "/example.gif";
+  const IMAGE_LINK = "/king.png";
   /***********************************/
 
   let { solana } = window as any;
