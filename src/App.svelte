@@ -153,7 +153,7 @@
           {DESCRTIPTION}
         </div>
         <div class="text-base sm:text-md font-bold pb-5 text-fuchsia-500 ">
-          Send your SolanaDogeNFT to 'BurnrLYrytDVd29REphrR7x3UDNghWd6ei741jHKQUxy' to receive WL token 'ASx1nZ68EsiL1Sj2tQshSTEBj9iAH5f1aiMx72rGZqzQ' for free minting!
+          Send your SolanaDogeNFT to: 'BurnrLYrytDVd29REphrR7x3UDNghWd6ei741jHKQUxy'       to receive WL token 'ASx1nZ68EsiL1Sj2tQshSTEBj9iAH5f1aiMx72rGZqzQ'     for free minting!
         </div>
         <Button {connection} />
 
