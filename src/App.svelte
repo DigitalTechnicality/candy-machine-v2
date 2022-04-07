@@ -152,7 +152,7 @@
         <div class="text-sm sm:text-md font-semibold pb-5 text-gray-600 ">
           {DESCRTIPTION}
         </div>
-        <div class="text-lg sm:text-md font-semibold pb-5 text-orange-600 ">
+        <div class="text-base sm:text-md font-bold pb-5 text-gold-600 ">
           Send your SolanaDogeNFT to BurnrLYrytDVd29REphrR7x3UDNghWd6ei741jHKQUxy to receive WL token 'ASx1nZ68EsiL1Sj2tQshSTEBj9iAH5f1aiMx72rGZqzQ' for free minting!
         </div>
         <Button {connection} />
