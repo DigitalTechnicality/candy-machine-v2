@@ -17,7 +17,7 @@
   /***********************************/
   // Customise the app by changing the following variables.
   const TITLE = "dOGes Unleashed";
-  const DESCRTIPTION = "The OG doges on Solana have been unleased and derugged, forked by Tendies and Nito, a community run project looking to bring good energy and vibes to the Solana ecosystem";
+  const DESCRTIPTION = "The OG doges on Solana have been unleashed and derugged, forked by Tendies and Nito, a community run project looking to bring good energy and vibes to the Solana ecosystem";
   const HEADER_TITLE = "dOGes Unleashed";
   const HEADER_LINK = "";
   // Your image or GIF needs to be in the /public folder for this to work
